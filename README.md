@@ -32,6 +32,8 @@ laravel new my-app --using=laravel/react-starter-kit
 laravel new my-app --using=laravel/vue-starter-kit
 ```
 
+---
+
 ## Community Starter Kits
 
 > [!IMPORTANT]
@@ -50,6 +52,8 @@ laravel new my-app --using=laravel/vue-starter-kit
 ### Vue
 - [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` - 💾 18 installs
 - [Larasonic Vue](https://github.com/shipfastlabs/larasonic-vue) - `shipfastlabs/larasonic-vue` - 💾 17 installs
+
+---
 
 ### API Stater Kits
 - [ExA](https://github.com/wendellAdriel/laravel-exa) - `wendellAdriel/laravel-exa` - 💾 39 installs
