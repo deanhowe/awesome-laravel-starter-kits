@@ -1,9 +1,9 @@
 {
     "official": [{
-            "title": "React",
-            "package": "laravel/react-starter-kit",
-            "repo": "laravel/react-starter-kit"
-        },
+        "title": "React",
+        "package": "laravel/react-starter-kit",
+        "repo": "laravel/react-starter-kit"
+    },
         {
             "title": "Vue",
             "package": "laravel/vue-starter-kit",
@@ -15,155 +15,184 @@
             "repo": "laravel/livewire-starter-kit"
         }
     ],
-    "community": [{
-            "title": "Statamic",
-            "package": "statamic/statamic",
-            "repo": "statamic/statamic"
-        },
-        {
-            "title": "Cachet",
-            "package": "cachethq/cachet",
-            "repo": "cachethq/cachet"
-        },
-        {
-            "title": "Svelte",
-            "package": "oseughu/svelte-starter-kit",
-            "repo": "oseughu/svelte-starter-kit"
-        },
-        {
-            "title": "Wave",
-            "package": "devdojo/wave",
-            "repo": "thedevdojo/wave"
-        },
-        {
-            "title": "Genesis",
-            "package": "devdojo/genesis",
-            "repo": "thedevdojo/genesis"
-        },
-        {
-            "title": "Filament",
-            "package": "tnylea/filamentapp",
-            "repo": "tnylea/filamentapp"
-        },
-        {
-            "title": "Livewire Starter",
-            "package": "tnylea/livewire-starter",
-            "repo": "tnylea/livewire-starter"
-        },
-        {
-            "title": "Larasonic React",
-            "package": "shipfastlabs/larasonic-react",
-            "repo": "shipfastlabs/larasonic-react"
-        },
-        {
-            "title": "Larasonic Vue",
-            "package": "shipfastlabs/larasonic-vue",
-            "repo": "shipfastlabs/larasonic-vue"
-        },
-        {
-            "title": "TALL starter",
-            "package": "mortenebak/tallstarter",
-            "repo": "mortenebak/tallstarter"
-        },
-        {
-            "title": "Filament Zeus starters",
-            "package": "lara-zeus/zeus",
-            "repo": "lara-zeus/zeus"
-        },
-        {
-            "title": "Modern Livewire Starter Kit",
-            "package": "shipfastlabs/modern-livewire-starter-kit",
-            "repo": "shipfastlabs/modern-livewire-starter-kit"
-        },
-        {
-            "title": "Modern Vue Starter Kit",
-            "package": "shipfastlabs/modern-vue-starter-kit",
-            "repo": "shipfastlabs/modern-vue-starter-kit"
-        },
-        {
-            "title": "Modern React Starter Kit",
-            "package": "shipfastlabs/modern-react-starter-kit",
-            "repo": "shipfastlabs/modern-react-starter-kit"
-        },
-        {
-            "title": "React JSX Starter Kit",
-            "package": "YazidKHALDI/react-jsx-starter-kit",
-            "repo": "YazidKHALDI/react-jsx-starter-kit"
-        },
-        {
-            "title": "Unstyled Blade Starter Kit",
-            "package": "javdome/unstyled-blade-starter-kit",
-            "repo": "javdome/unstyled-blade-starter-kit"
-        },
-        {
-            "title": "Tablar Starter Kit",
-            "package": "takielias/tablar-starter-kit",
-            "repo": "takielias/tablar-starter-kit"
-        },
-        {
-            "title": "MoonShine",
-            "package": "moonshine/app",
-            "repo": "moonshine-software/app"
-        },
-        {
-            "title": "New Laravel React App",
-            "package": "tnylea/react-starter",
-            "repo": "tnylea/react-starter"
-        },
-        {
-            "title": "New Laravel Inertia+React App",
-            "package": "tnylea/react-inertia-starter",
-            "repo": "tnylea/react-inertia-starter"
-        },
-        {
-            "title": "Bootstrap Starter Kit",
-            "package": "hostmoz/laravel-bootstrap-starter-kit",
-            "repo": "hostmoz/laravel-bootstrap-starter-kit"
-        },
-        {
-            "title": "Blade Starter Kit (with FluxUI)",
-            "package": "imacrayon/blade-starter-kit",
-            "repo": "imacrayon/blade-starter-kit"
-        },
-        {
-            "title": "React (Mantine) Starter Kit",
-            "package": "adrum/laravel-react-mantine-starter-kit",
-            "repo": "adrum/laravel-react-mantine-starter-kit"
-        },
-        {
-            "title": "Jetstream React (TypeScript)",
-            "package": "adrum/laravel-jetstream-react-typescript",
-            "repo": "adrum/laravel-jetstream-react-typescript"
-        },
-        {
-            "title": "Laravel Breeze React Starter Kit",
-            "package": "luis-developer-08/breeze-react-jsx-starter-kit",
-            "repo": "luis-developer-08/breeze-react-jsx-starter-kit"
-        },
-        {
-            "title": "Justd Starter Kit",
-            "package": "justd/laravel",
-            "repo": "justdlabs/laravel"
-        },
-        {
-            "title": "CoreUI Vue Starter Kit",
-            "package": "kastsecho/coreui-vue-starter-kit",
-            "repo": "kastsecho/coreui-vue-starter-kit"
-        },
-        {
-            "title": "Tabler based Laravel starter kit",
-            "package": "santosvilanculos/cuirass",
-            "repo": "santosvilanculos/cuirass"
-        },
-        {
-            "title": "Hotwire Starter Kit",
-            "package": "hotwired-laravel/hotwire-starter-kit",
-            "repo": "hotwired-laravel/hotwire-starter-kit"
-        },
-        {
-            "title": "Nuxt UI Starter",
-            "package": "stursby/nuxt-ui-starter",
-            "repo": "stursby/nuxt-ui-starter"
-        }
-    ]
+    "community":
+    {
+        "livewire": [
+            {
+                "title": "Livewire Starter",
+                "package": "tnylea/livewire-starter",
+                "repo": "tnylea/livewire-starter"
+            },
+            {
+                "title": "TALL starter",
+                "package": "mortenebak/tallstarter",
+                "repo": "mortenebak/tallstarter"
+            },
+            {
+                "title": "Modern Livewire Starter Kit",
+                "package": "shipfastlabs/modern-livewire-starter-kit",
+                "repo": "shipfastlabs/modern-livewire-starter-kit"
+            }
+        ],
+        "react": [
+            {
+                "title": "Jetstream React (TypeScript)",
+                "package": "adrum/laravel-jetstream-react-typescript",
+                "repo": "adrum/laravel-jetstream-react-typescript"
+            },
+            {
+                "title": "Larasonic React",
+                "package": "shipfastlabs/larasonic-react",
+                "repo": "shipfastlabs/larasonic-react"
+            },
+            {
+                "title": "Laravel Breeze React Starter Kit",
+                "package": "luis-developer-08/breeze-react-jsx-starter-kit",
+                "repo": "luis-developer-08/breeze-react-jsx-starter-kit"
+            },
+            {
+                "title": "Modern React Starter Kit",
+                "package": "shipfastlabs/modern-react-starter-kit",
+                "repo": "shipfastlabs/modern-react-starter-kit"
+            },
+            {
+                "title": "New Laravel Inertia+React App",
+                "package": "tnylea/react-inertia-starter",
+                "repo": "tnylea/react-inertia-starter"
+            },
+            {
+                "title": "New Laravel React App",
+                "package": "tnylea/react-starter",
+                "repo": "tnylea/react-starter"
+            },
+            {
+                "title": "React JSX Starter Kit",
+                "package": "YazidKHALDI/react-jsx-starter-kit",
+                "repo": "YazidKHALDI/react-jsx-starter-kit"
+            },
+            {
+                "title": "React (Mantine) Starter Kit",
+                "package": "adrum/laravel-react-mantine-starter-kit",
+                "repo": "adrum/laravel-react-mantine-starter-kit"
+            }
+        ],
+        "vue": [
+            {
+                "title": "Larasonic Vue",
+                "package": "shipfastlabs/larasonic-vue",
+                "repo": "shipfastlabs/larasonic-vue"
+            },
+            {
+                "title": "Modern Vue Starter Kit",
+                "package": "shipfastlabs/modern-vue-starter-kit",
+                "repo": "shipfastlabs/modern-vue-starter-kit"
+            }
+        ],
+        "blade" : [
+            {
+                "title": "Unstyled Blade Starter Kit",
+                "package": "javdome/unstyled-blade-starter-kit",
+                "repo": "javdome/unstyled-blade-starter-kit"
+            },
+            {
+                "title": "Blade Starter Kit (with FluxUI)",
+                "package": "imacrayon/blade-starter-kit",
+                "repo": "imacrayon/blade-starter-kit"
+            }
+        ],
+        "api": [
+            {
+                "title": "ExA",
+                "package": "wendellAdriel/laravel-exa",
+                "repo": "wendellAdriel/laravel-exa"
+            }
+        ],
+        "cms_official": [
+            {
+                "title": "Statamic",
+                "package": "statamic/statamic",
+                "repo": "statamic/statamic"
+            },
+            {
+                "title": "Svelte",
+                "package": "oseughu/svelte-starter-kit",
+                "repo": "oseughu/svelte-starter-kit"
+            },
+            {
+                "title": "Genesis",
+                "package": "devdojo/genesis",
+                "repo": "thedevdojo/genesis"
+            }
+        ],
+        "cms_community": [
+            {
+                "title": "Filament",
+                "package": "tnylea/filamentapp",
+                "repo": "tnylea/filamentapp"
+            },
+            {
+                "title": "Filament Zeus starters",
+                "package": "lara-zeus/zeus",
+                "repo": "lara-zeus/zeus"
+            }
+        ],
+        "saas": [
+            {
+                "title": "Wave",
+                "stack": "Filament",
+                "package": "devdojo/wave",
+                "repo": "thedevdojo/wave"
+            }
+        ],
+        "other": [
+            {
+                "title": "Bootstrap Starter Kit",
+                "package": "hostmoz/laravel-bootstrap-starter-kit",
+                "repo": "hostmoz/laravel-bootstrap-starter-kit"
+            },
+            {
+                "title": "Cachet",
+                "package": "cachethq/cachet",
+                "repo": "cachethq/cachet"
+            },
+            {
+                "title": "Fission",
+                "package": "joshcirre/fission",
+                "repo": "joshcirre/fission"
+            },
+           {
+                "title": "Laravel AdminTW",
+                "package": "dcblogdev/laravel-admintw",
+                "repo": "dcblogdev/laravel-admintw"
+            },
+            {
+                "title": "Laravel Static Analysis Starter Kit",
+                "package": "peterfox/laravel-static-analysis-starter-kit",
+                "repo": "peterfox/laravel-static-analysis-starter-kit"
+            },
+            {
+                "title": "Minimal Laravel Starter Kit",
+                "package": "vanyamil/laravel-starter-minimum",
+                "repo": "vanyamil/laravel-starter-minimum"
+
+
+            },
+            {
+                "title": "MoonShine",
+                "package": "moonshine/app",
+                "repo": "moonshine-software/app"
+            },
+            {
+                "title": "Tablar Starter Kit",
+                "package": "takielias/tablar-starter-kit",
+                "repo": "takielias/tablar-starter-kit"
+            },
+            {
+                "title": "Unstyled Blade Starter Kit",
+                "package": "javdome/unstyled-blade-starter-kit",
+                "repo": "javdome/unstyled-blade-starter-kit"
+            }
+        ]
+    }
+
 }
