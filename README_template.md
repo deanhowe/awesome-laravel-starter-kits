@@ -3,7 +3,10 @@
         <h1>Awesome Laravel Starter Kits</h1>
         <strong>Find the best Starter Kits for Laravel here!</strong>
     </p>
-    <!--<img src="./art/screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />-->
+
+[![Validate Templates JSON](https://github.com/deanhowe/awesome-laravel-starter-kits/actions/workflows/validate-templates.yml/badge.svg)](https://github.com/deanhowe/awesome-laravel-starter-kits/actions/workflows/validate-templates.yml)
+
+<!--<img src="./art/screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />-->
 </div>
 
 ---
