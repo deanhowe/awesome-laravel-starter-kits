@@ -4,6 +4,9 @@ on:
   pull_request:
     paths:
       - 'templates.json'
+  push:
+      branches:
+          - main
 
 jobs:
   validate-json:
