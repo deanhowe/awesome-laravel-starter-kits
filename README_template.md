@@ -5,6 +5,7 @@
     </p>
 
 [![Validate Templates JSON](https://github.com/deanhowe/awesome-laravel-starter-kits/actions/workflows/validate-templates.yml/badge.svg)](https://github.com/deanhowe/awesome-laravel-starter-kits/actions/workflows/validate-templates.yml)
+[![Update README with Starter Kits](https://github.com/deanhowe/awesome-laravel-starter-kits/actions/workflows/update-readme.yml/badge.svg)](https://github.com/deanhowe/awesome-laravel-starter-kits/actions/workflows/update-readme.yml)
 
 <!--<img src="./art/screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />-->
 </div>
