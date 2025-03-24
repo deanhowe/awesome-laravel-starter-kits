@@ -12,7 +12,11 @@
 
 ---
 
-Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
+Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template.
+
+Below is a list of the available templates.
+
+Click the :rocket: to install the starter kit using [Herd](https://herd.laravel.com).
 
 ---
 
