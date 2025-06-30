@@ -88,6 +88,13 @@
                 "repo": "shipfastlabs/modern-vue-starter-kit"
             }
         ],
+        "nuxt": [
+            {
+                "title": "Nuxt UI Starter",
+                "package": "stursby/nuxt-ui-starter",
+                "repo": "stursby/nuxt-ui-starter"
+            }
+        ],
         "blade" : [
             {
                 "title": "Unstyled Blade Starter Kit",
@@ -156,14 +163,34 @@
                 "repo": "cachethq/cachet"
             },
             {
+                "title": "CoreUI Vue Starter Kit",
+                "package": "kastsecho/coreui-vue-starter-kit",
+                "repo": "kastsecho/coreui-vue-starter-kit"
+            },
+            {
                 "title": "Fission",
                 "package": "joshcirre/fission",
                 "repo": "joshcirre/fission"
             },
-           {
+            {
+                "title": "Hotwire Starter Kit",
+                "package": "hotwired-laravel/hotwire-starter-kit",
+                "repo": "hotwired-laravel/hotwire-starter-kit"
+            },
+            {
+                "title": "Justd Starter Kit",
+                "package": "justd/laravel",
+                "repo": "justdlabs/laravel"
+            },
+            {
                 "title": "Laravel AdminTW",
                 "package": "dcblogdev/laravel-admintw",
                 "repo": "dcblogdev/laravel-admintw"
+            },
+            {
+                "title": "Laravel Breeze React Starter Kit",
+                "package": "luis-developer-08/breeze-react-jsx-starter-kit",
+                "repo": "luis-developer-08/breeze-react-jsx-starter-kit"
             },
             {
                 "title": "Laravel Static Analysis Starter Kit",
@@ -181,6 +208,11 @@
                 "title": "MoonShine",
                 "package": "moonshine/app",
                 "repo": "moonshine-software/app"
+            },
+            {
+                "title": "Tabler based Laravel starter kit",
+                "package": "santosvilanculos/cuirass",
+                "repo": "santosvilanculos/cuirass"
             },
             {
                 "title": "Tablar Starter Kit",
