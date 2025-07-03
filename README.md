@@ -22,19 +22,19 @@ Click the :rocket: to install the starter kit using [Herd](https://herd.laravel.
 
 ## Official Starter Kits
 
-- [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 36,537 installs 
+- [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 132,274 installs 
 
 ```
 laravel new my-app --using=laravel/livewire-starter-kit
 ```
 
-- [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 35,233 installs 
+- [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 127,349 installs 
 
 ```
 laravel new my-app --using=laravel/react-starter-kit
 ```
 
-- [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 24,995 installs 
+- [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 88,717 installs 
 
 ```
 laravel new my-app --using=laravel/vue-starter-kit
@@ -48,55 +48,60 @@ laravel new my-app --using=laravel/vue-starter-kit
 > Be cautious when installing any starter. Be sure to do research and learn more about each project.
 
 ### Blade
-* [Blade Starter Kit (with FluxUI)](https://github.com/imacrayon/blade-starter-kit) - `imacrayon/blade-starter-kit` <a href="https://packagist.org/packages/imacrayon/blade-starter-kit">💾 111 installs</a> <a href="https://herd.laravel.com/new?starter-kit=imacrayon/blade-starter-kit" title="Install with Herd">🚀</a>
-* [Unstyled Blade Starter Kit](https://github.com/javdome/unstyled-blade-starter-kit) - `javdome/unstyled-blade-starter-kit` <a href="https://packagist.org/packages/javdome/unstyled-blade-starter-kit">💾 24 installs</a> <a href="https://herd.laravel.com/new?starter-kit=javdome/unstyled-blade-starter-kit" title="Install with Herd">🚀</a>
+* [Blade Starter Kit (with FluxUI)](https://github.com/imacrayon/blade-starter-kit) - `imacrayon/blade-starter-kit` <a href="https://packagist.org/packages/imacrayon/blade-starter-kit">💾 458 installs</a> <a href="https://herd.laravel.com/new?starter-kit=imacrayon/blade-starter-kit" title="Install with Herd">🚀</a>
+* [Unstyled Blade Starter Kit](https://github.com/javdome/unstyled-blade-starter-kit) - `javdome/unstyled-blade-starter-kit` <a href="https://packagist.org/packages/javdome/unstyled-blade-starter-kit">💾 116 installs</a> <a href="https://herd.laravel.com/new?starter-kit=javdome/unstyled-blade-starter-kit" title="Install with Herd">🚀</a>
 
 ### Livewire
-* [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` <a href="https://packagist.org/packages/mortenebak/tallstarter">💾 163 installs</a> <a href="https://herd.laravel.com/new?starter-kit=mortenebak/tallstarter" title="Install with Herd">🚀</a>
-* [Modern Livewire Starter Kit](https://github.com/shipfastlabs/modern-livewire-starter-kit) - `shipfastlabs/modern-livewire-starter-kit` <a href="https://packagist.org/packages/shipfastlabs/modern-livewire-starter-kit">💾 26 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-livewire-starter-kit" title="Install with Herd">🚀</a>
-* [Livewire Starter](https://github.com/tnylea/livewire-starter) - `tnylea/livewire-starter` <a href="https://packagist.org/packages/tnylea/livewire-starter">💾 12 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/livewire-starter" title="Install with Herd">🚀</a>
+* [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` <a href="https://packagist.org/packages/mortenebak/tallstarter">💾 538 installs</a> <a href="https://herd.laravel.com/new?starter-kit=mortenebak/tallstarter" title="Install with Herd">🚀</a>
+* [Modern Livewire Starter Kit](https://github.com/shipfastlabs/modern-livewire-starter-kit) - `shipfastlabs/modern-livewire-starter-kit` <a href="https://packagist.org/packages/shipfastlabs/modern-livewire-starter-kit">💾 56 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-livewire-starter-kit" title="Install with Herd">🚀</a>
+* [Livewire Starter](https://github.com/tnylea/livewire-starter) - `tnylea/livewire-starter` <a href="https://packagist.org/packages/tnylea/livewire-starter">💾 22 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/livewire-starter" title="Install with Herd">🚀</a>
 
 ### React
-* [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` <a href="https://packagist.org/packages/shipfastlabs/modern-react-starter-kit">💾 49 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-react-starter-kit" title="Install with Herd">🚀</a>
-* [Larasonic React](https://github.com/shipfastlabs/larasonic-react) - `shipfastlabs/larasonic-react` <a href="https://packagist.org/packages/shipfastlabs/larasonic-react">💾 22 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/larasonic-react" title="Install with Herd">🚀</a>
-* [New Laravel React App](https://github.com/tnylea/react-starter) - `tnylea/react-starter` <a href="https://packagist.org/packages/tnylea/react-starter">💾 14 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/react-starter" title="Install with Herd">🚀</a>
-* [React JSX Starter Kit](https://github.com/YazidKHALDI/react-jsx-starter-kit) - `YazidKHALDI/react-jsx-starter-kit` <a href="https://packagist.org/packages/YazidKHALDI/react-jsx-starter-kit">💾 12 installs</a> <a href="https://herd.laravel.com/new?starter-kit=YazidKHALDI/react-jsx-starter-kit" title="Install with Herd">🚀</a>
-* [React (Mantine) Starter Kit](https://github.com/adrum/laravel-react-mantine-starter-kit) - `adrum/laravel-react-mantine-starter-kit` <a href="https://packagist.org/packages/adrum/laravel-react-mantine-starter-kit">💾 12 installs</a> <a href="https://herd.laravel.com/new?starter-kit=adrum/laravel-react-mantine-starter-kit" title="Install with Herd">🚀</a>
-* [Laravel Breeze React Starter Kit](https://github.com/luis-developer-08/breeze-react-jsx-starter-kit) - `luis-developer-08/breeze-react-jsx-starter-kit` <a href="https://packagist.org/packages/luis-developer-08/breeze-react-jsx-starter-kit">💾 6 installs</a> <a href="https://herd.laravel.com/new?starter-kit=luis-developer-08/breeze-react-jsx-starter-kit" title="Install with Herd">🚀</a>
-* [Jetstream React (TypeScript)](https://github.com/adrum/laravel-jetstream-react-typescript) - `adrum/laravel-jetstream-react-typescript` <a href="https://packagist.org/packages/adrum/laravel-jetstream-react-typescript">💾 2 installs</a> <a href="https://herd.laravel.com/new?starter-kit=adrum/laravel-jetstream-react-typescript" title="Install with Herd">🚀</a>
-* [New Laravel Inertia+React App](https://github.com/tnylea/react-inertia-starter) - `tnylea/react-inertia-starter` <a href="https://packagist.org/packages/tnylea/react-inertia-starter">💾 0 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/react-inertia-starter" title="Install with Herd">🚀</a>
+* [React JSX Starter Kit](https://github.com/YazidKHALDI/react-jsx-starter-kit) - `YazidKHALDI/react-jsx-starter-kit` <a href="https://packagist.org/packages/YazidKHALDI/react-jsx-starter-kit">💾 376 installs</a> <a href="https://herd.laravel.com/new?starter-kit=YazidKHALDI/react-jsx-starter-kit" title="Install with Herd">🚀</a>
+* [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` <a href="https://packagist.org/packages/shipfastlabs/modern-react-starter-kit">💾 105 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-react-starter-kit" title="Install with Herd">🚀</a>
+* [React (Mantine) Starter Kit](https://github.com/adrum/laravel-react-mantine-starter-kit) - `adrum/laravel-react-mantine-starter-kit` <a href="https://packagist.org/packages/adrum/laravel-react-mantine-starter-kit">💾 79 installs</a> <a href="https://herd.laravel.com/new?starter-kit=adrum/laravel-react-mantine-starter-kit" title="Install with Herd">🚀</a>
+* [Jetstream React (TypeScript)](https://github.com/adrum/laravel-jetstream-react-typescript) - `adrum/laravel-jetstream-react-typescript` <a href="https://packagist.org/packages/adrum/laravel-jetstream-react-typescript">💾 39 installs</a> <a href="https://herd.laravel.com/new?starter-kit=adrum/laravel-jetstream-react-typescript" title="Install with Herd">🚀</a>
+* [Larasonic React](https://github.com/shipfastlabs/larasonic-react) - `shipfastlabs/larasonic-react` <a href="https://packagist.org/packages/shipfastlabs/larasonic-react">💾 36 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/larasonic-react" title="Install with Herd">🚀</a>
+* [New Laravel Inertia+React App](https://github.com/tnylea/react-inertia-starter) - `tnylea/react-inertia-starter` <a href="https://packagist.org/packages/tnylea/react-inertia-starter">💾 36 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/react-inertia-starter" title="Install with Herd">🚀</a>
+* [New Laravel React App](https://github.com/tnylea/react-starter) - `tnylea/react-starter` <a href="https://packagist.org/packages/tnylea/react-starter">💾 20 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/react-starter" title="Install with Herd">🚀</a>
+* [Laravel Breeze React Starter Kit](https://github.com/luis-developer-08/breeze-react-jsx-starter-kit) - `luis-developer-08/breeze-react-jsx-starter-kit` <a href="https://packagist.org/packages/luis-developer-08/breeze-react-jsx-starter-kit">💾 17 installs</a> <a href="https://herd.laravel.com/new?starter-kit=luis-developer-08/breeze-react-jsx-starter-kit" title="Install with Herd">🚀</a>
 
 ### Vue
-* [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` <a href="https://packagist.org/packages/shipfastlabs/modern-vue-starter-kit">💾 46 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-vue-starter-kit" title="Install with Herd">🚀</a>
-* [Larasonic Vue](https://github.com/shipfastlabs/larasonic-vue) - `shipfastlabs/larasonic-vue` <a href="https://packagist.org/packages/shipfastlabs/larasonic-vue">💾 29 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/larasonic-vue" title="Install with Herd">🚀</a>
+* [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` <a href="https://packagist.org/packages/shipfastlabs/modern-vue-starter-kit">💾 111 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-vue-starter-kit" title="Install with Herd">🚀</a>
+* [Larasonic Vue](https://github.com/shipfastlabs/larasonic-vue) - `shipfastlabs/larasonic-vue` <a href="https://packagist.org/packages/shipfastlabs/larasonic-vue">💾 75 installs</a> <a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/larasonic-vue" title="Install with Herd">🚀</a>
 
 ---
 
 ### API Stater Kits
-* [ExA](https://github.com/wendellAdriel/laravel-exa) - `wendellAdriel/laravel-exa` <a href="https://packagist.org/packages/wendellAdriel/laravel-exa">💾 41 installs</a> <a href="https://herd.laravel.com/new?starter-kit=wendellAdriel/laravel-exa" title="Install with Herd">🚀</a>
+* [ExA](https://github.com/wendellAdriel/laravel-exa) - `wendellAdriel/laravel-exa` <a href="https://packagist.org/packages/wendellAdriel/laravel-exa">💾 47 installs</a> <a href="https://herd.laravel.com/new?starter-kit=wendellAdriel/laravel-exa" title="Install with Herd">🚀</a>
 
 ### CMS - Official Installers
-* [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` <a href="https://packagist.org/packages/statamic/statamic">💾 134,895 installs</a> <a href="https://herd.laravel.com/new?starter-kit=statamic/statamic" title="Install with Herd">🚀</a>
-* [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` <a href="https://packagist.org/packages/devdojo/genesis">💾 8,899 installs</a> <a href="https://herd.laravel.com/new?starter-kit=devdojo/genesis" title="Install with Herd">🚀</a>
-* [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` <a href="https://packagist.org/packages/oseughu/svelte-starter-kit">💾 48 installs</a> <a href="https://herd.laravel.com/new?starter-kit=oseughu/svelte-starter-kit" title="Install with Herd">🚀</a>
+* [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` <a href="https://packagist.org/packages/statamic/statamic">💾 144,599 installs</a> <a href="https://herd.laravel.com/new?starter-kit=statamic/statamic" title="Install with Herd">🚀</a>
+* [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` <a href="https://packagist.org/packages/devdojo/genesis">💾 9,641 installs</a> <a href="https://herd.laravel.com/new?starter-kit=devdojo/genesis" title="Install with Herd">🚀</a>
+* [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` <a href="https://packagist.org/packages/oseughu/svelte-starter-kit">💾 444 installs</a> <a href="https://herd.laravel.com/new?starter-kit=oseughu/svelte-starter-kit" title="Install with Herd">🚀</a>
 
 ### CMS - Community Installers/Enhancers
-* [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` <a href="https://packagist.org/packages/lara-zeus/zeus">💾 817 installs</a> <a href="https://herd.laravel.com/new?starter-kit=lara-zeus/zeus" title="Install with Herd">🚀</a>
-* [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` <a href="https://packagist.org/packages/tnylea/filamentapp">💾 152 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/filamentapp" title="Install with Herd">🚀</a>
+* [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` <a href="https://packagist.org/packages/lara-zeus/zeus">💾 1,008 installs</a> <a href="https://herd.laravel.com/new?starter-kit=lara-zeus/zeus" title="Install with Herd">🚀</a>
+* [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` <a href="https://packagist.org/packages/tnylea/filamentapp">💾 396 installs</a> <a href="https://herd.laravel.com/new?starter-kit=tnylea/filamentapp" title="Install with Herd">🚀</a>
 
 ### SAAS Stater Kits
-* [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` <a href="https://packagist.org/packages/devdojo/wave">💾 441 installs</a> <a href="https://herd.laravel.com/new?starter-kit=devdojo/wave" title="Install with Herd">🚀</a>
+* [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` <a href="https://packagist.org/packages/devdojo/wave">💾 743 installs</a> <a href="https://herd.laravel.com/new?starter-kit=devdojo/wave" title="Install with Herd">🚀</a>
 
 ### Other Tools/Misc
-* [Laravel AdminTW](https://github.com/dcblogdev/laravel-admintw) - `dcblogdev/laravel-admintw` <a href="https://packagist.org/packages/dcblogdev/laravel-admintw">💾 2,881 installs</a> <a href="https://herd.laravel.com/new?starter-kit=dcblogdev/laravel-admintw" title="Install with Herd">🚀</a>
-* [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` <a href="https://packagist.org/packages/cachethq/cachet">💾 414 installs</a> <a href="https://herd.laravel.com/new?starter-kit=cachethq/cachet" title="Install with Herd">🚀</a>
-* [Unstyled Blade Starter Kit](https://github.com/javdome/unstyled-blade-starter-kit) - `javdome/unstyled-blade-starter-kit` <a href="https://packagist.org/packages/javdome/unstyled-blade-starter-kit">💾 24 installs</a> <a href="https://herd.laravel.com/new?starter-kit=javdome/unstyled-blade-starter-kit" title="Install with Herd">🚀</a>
-* [Fission](https://github.com/joshcirre/fission) - `joshcirre/fission` <a href="https://packagist.org/packages/joshcirre/fission">💾 22 installs</a> <a href="https://herd.laravel.com/new?starter-kit=joshcirre/fission" title="Install with Herd">🚀</a>
-* [Tablar Starter Kit](https://github.com/takielias/tablar-starter-kit) - `takielias/tablar-starter-kit` <a href="https://packagist.org/packages/takielias/tablar-starter-kit">💾 22 installs</a> <a href="https://herd.laravel.com/new?starter-kit=takielias/tablar-starter-kit" title="Install with Herd">🚀</a>
-* [MoonShine](https://github.com/moonshine-software/app) - `moonshine/app` <a href="https://packagist.org/packages/moonshine/app">💾 17 installs</a> <a href="https://herd.laravel.com/new?starter-kit=moonshine/app" title="Install with Herd">🚀</a>
-* [Bootstrap Starter Kit](https://github.com/hostmoz/laravel-bootstrap-starter-kit) - `hostmoz/laravel-bootstrap-starter-kit` <a href="https://packagist.org/packages/hostmoz/laravel-bootstrap-starter-kit">💾 14 installs</a> <a href="https://herd.laravel.com/new?starter-kit=hostmoz/laravel-bootstrap-starter-kit" title="Install with Herd">🚀</a>
-* [Laravel Static Analysis Starter Kit](https://github.com/peterfox/laravel-static-analysis-starter-kit) - `peterfox/laravel-static-analysis-starter-kit` <a href="https://packagist.org/packages/peterfox/laravel-static-analysis-starter-kit">💾 3 installs</a> <a href="https://herd.laravel.com/new?starter-kit=peterfox/laravel-static-analysis-starter-kit" title="Install with Herd">🚀</a>
-* [Minimal Laravel Starter Kit](https://github.com/vanyamil/laravel-starter-minimum) - `vanyamil/laravel-starter-minimum` <a href="https://packagist.org/packages/vanyamil/laravel-starter-minimum">💾 2 installs</a> <a href="https://herd.laravel.com/new?starter-kit=vanyamil/laravel-starter-minimum" title="Install with Herd">🚀</a>
+* [Laravel AdminTW](https://github.com/dcblogdev/laravel-admintw) - `dcblogdev/laravel-admintw` <a href="https://packagist.org/packages/dcblogdev/laravel-admintw">💾 2,950 installs</a> <a href="https://herd.laravel.com/new?starter-kit=dcblogdev/laravel-admintw" title="Install with Herd">🚀</a>
+* [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` <a href="https://packagist.org/packages/cachethq/cachet">💾 421 installs</a> <a href="https://herd.laravel.com/new?starter-kit=cachethq/cachet" title="Install with Herd">🚀</a>
+* [Bootstrap Starter Kit](https://github.com/hostmoz/laravel-bootstrap-starter-kit) - `hostmoz/laravel-bootstrap-starter-kit` <a href="https://packagist.org/packages/hostmoz/laravel-bootstrap-starter-kit">💾 156 installs</a> <a href="https://herd.laravel.com/new?starter-kit=hostmoz/laravel-bootstrap-starter-kit" title="Install with Herd">🚀</a>
+* [Hotwire Starter Kit](https://github.com/hotwired-laravel/hotwire-starter-kit) - `hotwired-laravel/hotwire-starter-kit` <a href="https://packagist.org/packages/hotwired-laravel/hotwire-starter-kit">💾 129 installs</a> <a href="https://herd.laravel.com/new?starter-kit=hotwired-laravel/hotwire-starter-kit" title="Install with Herd">🚀</a>
+* [MoonShine](https://github.com/moonshine-software/app) - `moonshine/app` <a href="https://packagist.org/packages/moonshine/app">💾 118 installs</a> <a href="https://herd.laravel.com/new?starter-kit=moonshine/app" title="Install with Herd">🚀</a>
+* [Unstyled Blade Starter Kit](https://github.com/javdome/unstyled-blade-starter-kit) - `javdome/unstyled-blade-starter-kit` <a href="https://packagist.org/packages/javdome/unstyled-blade-starter-kit">💾 116 installs</a> <a href="https://herd.laravel.com/new?starter-kit=javdome/unstyled-blade-starter-kit" title="Install with Herd">🚀</a>
+* [Tablar Starter Kit](https://github.com/takielias/tablar-starter-kit) - `takielias/tablar-starter-kit` <a href="https://packagist.org/packages/takielias/tablar-starter-kit">💾 102 installs</a> <a href="https://herd.laravel.com/new?starter-kit=takielias/tablar-starter-kit" title="Install with Herd">🚀</a>
+* [Fission](https://github.com/joshcirre/fission) - `joshcirre/fission` <a href="https://packagist.org/packages/joshcirre/fission">💾 88 installs</a> <a href="https://herd.laravel.com/new?starter-kit=joshcirre/fission" title="Install with Herd">🚀</a>
+* [Justd Starter Kit](https://github.com/justdlabs/laravel) - `justd/laravel` <a href="https://packagist.org/packages/justd/laravel">💾 87 installs</a> <a href="https://herd.laravel.com/new?starter-kit=justd/laravel" title="Install with Herd">🚀</a>
+* [Tabler based Laravel starter kit](https://github.com/santosvilanculos/cuirass) - `santosvilanculos/cuirass` <a href="https://packagist.org/packages/santosvilanculos/cuirass">💾 36 installs</a> <a href="https://herd.laravel.com/new?starter-kit=santosvilanculos/cuirass" title="Install with Herd">🚀</a>
+* [CoreUI Vue Starter Kit](https://github.com/kastsecho/coreui-vue-starter-kit) - `kastsecho/coreui-vue-starter-kit` <a href="https://packagist.org/packages/kastsecho/coreui-vue-starter-kit">💾 19 installs</a> <a href="https://herd.laravel.com/new?starter-kit=kastsecho/coreui-vue-starter-kit" title="Install with Herd">🚀</a>
+* [Laravel Breeze React Starter Kit](https://github.com/luis-developer-08/breeze-react-jsx-starter-kit) - `luis-developer-08/breeze-react-jsx-starter-kit` <a href="https://packagist.org/packages/luis-developer-08/breeze-react-jsx-starter-kit">💾 17 installs</a> <a href="https://herd.laravel.com/new?starter-kit=luis-developer-08/breeze-react-jsx-starter-kit" title="Install with Herd">🚀</a>
+* [Laravel Static Analysis Starter Kit](https://github.com/peterfox/laravel-static-analysis-starter-kit) - `peterfox/laravel-static-analysis-starter-kit` <a href="https://packagist.org/packages/peterfox/laravel-static-analysis-starter-kit">💾 13 installs</a> <a href="https://herd.laravel.com/new?starter-kit=peterfox/laravel-static-analysis-starter-kit" title="Install with Herd">🚀</a>
+* [Minimal Laravel Starter Kit](https://github.com/vanyamil/laravel-starter-minimum) - `vanyamil/laravel-starter-minimum` <a href="https://packagist.org/packages/vanyamil/laravel-starter-minimum">💾 3 installs</a> <a href="https://herd.laravel.com/new?starter-kit=vanyamil/laravel-starter-minimum" title="Install with Herd">🚀</a>
 
 ---
 
