@@ -36,9 +36,19 @@
         ],
         "react": [
             {
+                "title": "Billing Starter Kit (Laravel Cashier + React + Chargebee)",
+                "package": "chargebee/cashier",
+                "repo": "chargebee/cashier-chargebee"
+            },
+            {
                 "title": "Jetstream React (TypeScript)",
                 "package": "adrum/laravel-jetstream-react-typescript",
                 "repo": "adrum/laravel-jetstream-react-typescript"
+            },
+            {
+                "title": "React, Rector, Larastan/PHPStan, Pint & Pest Starter Kit",
+                "package": "cvtmal/laravel-react-starter",
+                "repo": "cvtmal/laravel-react-starter"
             },
             {
                 "title": "Larasonic React",
@@ -66,6 +76,11 @@
                 "repo": "tnylea/react-starter"
             },
             {
+                "title": "React API Starter Kit",
+                "package": "benshawuk/react-api-starter-kit",
+                "repo": "benshawuk/react-api-starter-kit"
+            },
+            {
                 "title": "React JSX Starter Kit",
                 "package": "YazidKHALDI/react-jsx-starter-kit",
                 "repo": "YazidKHALDI/react-jsx-starter-kit"
@@ -83,16 +98,48 @@
                 "repo": "shipfastlabs/larasonic-vue"
             },
             {
+                "title": "Laravel + PrimeVue Starter Kit",
+                "package": "connora/laravel-primevue-starter-kit",
+                "repo": "connorabbas/laravel-primevue-starter-kit"
+            },
+            {
                 "title": "Modern Vue Starter Kit",
                 "package": "shipfastlabs/modern-vue-starter-kit",
                 "repo": "shipfastlabs/modern-vue-starter-kit"
+            },
+            {
+                "title": "Vue Webshop Starter Kit",
+                "package": "trickertreat654/laravel-webshop-starterkit",
+                "repo": "trickertreat654/laravel-webshop-starterkit"
+            },
+            {
+                "title": "VueJS DaisyUI Starter Kit",
+                "package": "marcos-aparicio/vue-daisyui-starter-kit",
+                "repo": "marcos-aparicio/vue-daisyui-starter-kit"
+            },
+            {
+                "title": "Vuejs Starter Kit",
+                "package": "rokde/laravel-starter-kit",
+                "repo": "rokde/laravel-starter-kit"
             }
         ],
         "nuxt": [
             {
+                "title": "LaraNuxt-kit - Nuxt UI Inertiajs Starterkit",
+                "package": "fusigabs/laranuxtui-kit",
+                "repo": "fusigabs/laranuxtui-kit"
+            },
+            {
                 "title": "Nuxt UI Starter",
                 "package": "stursby/nuxt-ui-starter",
                 "repo": "stursby/nuxt-ui-starter"
+            }
+        ],
+        "tall" : [
+            {
+                "title": "TallStackUI Starter Kit",
+                "package": "tallstackui/starter-kit",
+                "repo": "tallstackui/starter-kit"
             }
         ],
         "blade" : [
@@ -105,13 +152,33 @@
                 "title": "Blade Starter Kit (with FluxUI)",
                 "package": "imacrayon/blade-starter-kit",
                 "repo": "imacrayon/blade-starter-kit"
+            },
+            {
+                "title": "Retro Blade Starter Kit",
+                "package": "adygcode/retro-blade-kit",
+                "repo": "adygcode/retro-blade-kit"
             }
         ],
         "api": [
             {
+                "title": "API Only Starter Kit",
+                "package": "Samkaypro/laravel-api-starter",
+                "repo": "Samkaypro/laravel-api-starter"
+            },
+            {
                 "title": "ExA",
                 "package": "wendellAdriel/laravel-exa",
                 "repo": "wendellAdriel/laravel-exa"
+            },
+            {
+                "title": "Laravel API Starter Kit",
+                "package": "hdeawy/api-starter-kit",
+                "repo": "hdeawy/api-starter-kit"
+            },
+            {
+                "title": "JSON:API Starter",
+                "package": "t73biz/json-api-starter-kit",
+                "repo": "t73biz/json-api-starter-kit"
             }
         ],
         "cms_official": [
@@ -141,6 +208,16 @@
                 "title": "Filament Zeus starters",
                 "package": "lara-zeus/zeus",
                 "repo": "lara-zeus/zeus"
+            },
+            {
+                "title": "Glow Starter Kit (with filament and popular plugins)",
+                "package": "ercogx/laravel-filament-starter-kit",
+                "repo": "ercogx/laravel-filament-starter-kit"
+            },
+            {
+                "title": "Filakit",
+                "package": "jeffersongoncalves/filakit",
+                "repo": "jeffersongoncalves/filakit"
             }
         ],
         "saas": [
@@ -173,9 +250,24 @@
                 "repo": "joshcirre/fission"
             },
             {
+                "title": "Flowbite Livewire Starter Kit",
+                "package": "macdanson/flowbite-livewire-starter-kit",
+                "repo": "macdanson/flowbite-livewire-starter-kit"
+            },
+            {
                 "title": "Hotwire Starter Kit",
                 "package": "hotwired-laravel/hotwire-starter-kit",
                 "repo": "hotwired-laravel/hotwire-starter-kit"
+            },
+            {
+                "title": "Hyper Wire Starter Kit",
+                "package": "yehuuu6/hyperwire",
+                "repo": "yehuuu6/hyperwire"
+            },
+            {
+                "title": "Intent UI",
+                "package": "intentui/laravel",
+                "repo": "justdlabs/laravel"
             },
             {
                 "title": "Justd Starter Kit",
@@ -198,11 +290,14 @@
                 "repo": "peterfox/laravel-static-analysis-starter-kit"
             },
             {
+                "title": "Laces - Enhancements to the official Livewire starter kit",
+                "package": "legecha/laces",
+                "repo": "legecha/laces"
+            },
+            {
                 "title": "Minimal Laravel Starter Kit",
                 "package": "vanyamil/laravel-starter-minimum",
                 "repo": "vanyamil/laravel-starter-minimum"
-
-
             },
             {
                 "title": "MoonShine",
@@ -226,5 +321,4 @@
             }
         ]
     }
-
 }
